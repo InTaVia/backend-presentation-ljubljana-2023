@@ -15,3 +15,18 @@
 ]}
 -->
 </div>
+
++++
+
+#### InTaVia API RDF processing
+
+<div style="max-width:800;" data-animate data-src="images/systematic_rdf_conversion.drawio.svg">
+<!--
+{ "setup": [
+{ "element": "#cell-5", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "0"} ]},
+{ "element": "#cell-10, #cell-7", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "1"} ]},
+{ "element": "#cell-12, #cell-6", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "2"} ]}
+]}
+-->
+</div>
+
