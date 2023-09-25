@@ -2,7 +2,7 @@
 - H2020 project<!-- .element: class="fragment" -->
 - 4 countries: Slovenia, Austria, The Netherlands and Finland<!-- .element: class="fragment" -->
 - started 2020-11-01<!-- .element: class="fragment" -->
-- 4 months to go<!-- .element: class="fragment" -->
+- 1 months to go<!-- .element: class="fragment" -->
 
 +++
 
